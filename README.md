@@ -1,4 +1,4 @@
-# Udacity-FSWD-NanoDegree-Project-1
+# Udacity-FSWD-NanoDegree-Project-2
 
 ## Project 2 - Tournament Results (with extra credit additions to support multiple tournaments)
 
